@@ -5,7 +5,7 @@
  */
 
 // -- CONFIG --
-const velocity = 0.4;
+const velocity = 0.2;
 const sectionIds = ["s0", "s1", "s2", "s3"];
 // -- CONFIG --
 
