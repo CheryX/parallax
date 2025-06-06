@@ -5,8 +5,8 @@
  */
 
 // -- CONFIG --
-const velocity: number = 0.2;
-const sectionIds: string[] = ['s0', 's1', 's2'];
+const velocity: number = 0.4;
+const sectionIds: string[] = ['s0', 's1', 's2', 's3'];
 // -- CONFIG --
 
 const themesContainer: HTMLDivElement = document.createElement('div');
