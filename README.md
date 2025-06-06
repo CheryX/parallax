@@ -7,3 +7,6 @@ Short TypeScript snippet to make your website theme scroll with a parallax effec
 3. Configure `sectionIds` and `velocity` below.
 4. Style your themed blocks using the format: `${sectionId}-plx`.
 For examples, refer to index.html in the project root.
+
+## Live example
+Live example can be found [here](https://cheryx.github.io/parallax/).
